@@ -1,28 +1,28 @@
 import logo from "../assets/logo";
 
 const blogData = {
-  name: "Underreacted",
+  name: "Leslie's Blog",
   image: logo,
-  about: "A blog about learning React",
+  about: "Welcome to my blog!! I am a Uni student who enjoys learning new things.In this blog,  I will be posting about life, my thoughts and what I am up to too. Stay tuned for more!!",
   posts: [
     {
       id: 1,
-      title: "Components 101",
+      title: "Learning to Balance Everything",
       date: "December 15, 2020",
-      preview: "Setting up the building blocks of your site",
+      preview: "Between Uni, projects and personal goals, finding balance has been one of my biggest challenges lately",
       minutes: 5,
     },
     {
       id: 2,
-      title: "React Data Flow",
+      title: "What I am working on currently",
       date: "December 11, 2020",
-      preview: "Passing props is never passé",
+      preview: "I am currently learning React from Moringa School and learning C and Java in Uni. ",
       minutes: 15,
     },
     {
       id: 3,
-      title: "Function vs Class Components",
-      preview: "React, meet OOJS.",
+      title: "Small Progress is Still Progress",
+      preview: "Sometimes I feel like verything is moving so fast and it feels like a race but I have really learnt that it is important to celebrate small wins and progress because it is still progress.",
       minutes: 47,
     },
   ],
